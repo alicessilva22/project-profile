@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alicessilva22/project-profile/issues"
   },
-  "homepage": "https://github.com/alicessilva22/project-profile#readme"
+  "homepage": "https://github.com/alicessilva22/project-profile#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
